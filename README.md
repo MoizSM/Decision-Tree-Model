@@ -9,3 +9,4 @@ This is a machine learning model that demonstrates the use of Decision Tree Algo
 
 ### The model predicts the result as 1 = YES or 0 = NO
 
+#### The dataset has been taken from [Kaggle](https://www.kaggle.com/yusufdede/lung-cancer-dataset)
